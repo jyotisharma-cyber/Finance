@@ -5,6 +5,6 @@
 ---
 ## Finance Dashboard Screenshot
 
-![Finance Dashboard]((Finance.PNG))
+![Finance Dashboard](Finance.PNG)
 
 ---
